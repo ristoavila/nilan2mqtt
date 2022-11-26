@@ -1,6 +1,6 @@
 package dto
 
-import "github.com/pjuzeliunas/nilan"
+import "github.com/ristoavila/nilan"
 
 type Readings struct {
 	RoomTemperature          float32 `json:"room_temp"`

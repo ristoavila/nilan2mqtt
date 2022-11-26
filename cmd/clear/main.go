@@ -45,7 +45,7 @@ func mqttClient(brokerAddress string, port int, username string, password string
 }
 
 func main() {
-	mqttC := mqttClient("192.168.1.18", 1883, "", "")
+	mqttC := mqttClient("192.168.0.13", 1883, "", "")
 	defer mqttC.Disconnect(0)
 	clearAll(mqttC)
 }

@@ -1,6 +1,6 @@
 package dto
 
-import "github.com/pjuzeliunas/nilan"
+import "github.com/ristoavila/nilan"
 
 type ErrorsDTO struct {
 	OldFilter   string `json:"old_filter"`

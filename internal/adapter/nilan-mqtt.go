@@ -9,9 +9,9 @@ import (
 
 	mqtt "github.com/eclipse/paho.mqtt.golang"
 	"github.com/google/uuid"
-	"github.com/pjuzeliunas/nilan"
-	"github.com/pjuzeliunas/nilan2mqtt/internal/config"
-	"github.com/pjuzeliunas/nilan2mqtt/internal/dto"
+	"github.com/ristoavila/nilan"
+	"github.com/ristoavila/nilan2mqtt/internal/config"
+	"github.com/ristoavila/nilan2mqtt/internal/dto"
 )
 
 type NilanMQTTAdapter struct {

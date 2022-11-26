@@ -1,7 +1,7 @@
 package dto
 
 import (
-	"github.com/pjuzeliunas/nilan"
+	"github.com/ristoavila/nilan"
 )
 
 type SettingsDTO struct {

@@ -1,6 +1,6 @@
 package config
 
-import "github.com/pjuzeliunas/nilan2mqtt/internal/dto"
+import "github.com/ristoavila/nilan2mqtt/internal/dto"
 
 type Sensor struct {
 	DeviceClass       string `json:"device_class"`

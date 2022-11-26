@@ -3,7 +3,7 @@ package config
 import (
 	"strconv"
 
-	"github.com/pjuzeliunas/nilan2mqtt/internal/dto"
+	"github.com/ristoavila/nilan2mqtt/internal/dto"
 )
 
 type Number struct {

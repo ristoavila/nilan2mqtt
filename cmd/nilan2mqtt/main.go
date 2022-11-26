@@ -5,7 +5,7 @@ import (
 	"os/signal"
 	"syscall"
 
-	"github.com/pjuzeliunas/nilan2mqtt/internal/adapter"
+	"github.com/ristoavila/nilan2mqtt/internal/adapter"
 )
 
 func main() {

@@ -1,6 +1,6 @@
 package config
 
-import "github.com/pjuzeliunas/nilan2mqtt/internal/dto"
+import "github.com/ristoavila/nilan2mqtt/internal/dto"
 
 type Switch struct {
 	CommandTopic       string `json:"command_topic"`

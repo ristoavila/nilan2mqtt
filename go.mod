@@ -1,4 +1,4 @@
-module github.com/pjuzeliunas/nilan2mqtt
+module github.com/ristoavila/nilan2mqtt
 
 go 1.17
 
